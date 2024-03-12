@@ -1,10 +1,10 @@
-# 🤖 Lab Acropolix
+# 🤖 Bienvenue au Lab Acropolix
 
 **`Laboratoire d'expérimentations et de réalisation autour de la Robotique Mobile`**
 
-La découverte de la série animée Transformers dans les années 80 a été un véritable déclic. Des robots se transformant en véhicules de toute sorte, j'ai trouvé cela tout bonnement génial.
-Même si depuis la fin de mes études, je me suis un peu éloigné du domaine, il est toujoursancré en moi.
-Il est temps aujourd'hui de concrétiser toutes ces années d'idées en robotique que je n'ai jamais pu réaliser jusqu'à présent.
+La découverte de la série animée Transformers dans les années 80 a été un véritable déclic. Des robots se transformant en véhicules de toute sorte, j'ai trouvé cela tout bonnement génial. <br/>
+Même si depuis la fin de mes études, je me suis un peu éloigné du domaine, il est toujours ancré en moi.<br/><br/>
+Il est temps aujourd'hui de concrétiser toutes ces années d'idées en robotique que je n'ai jamais pu réaliser jusqu'à présent. Je vous rassure, on ne va pas développer et concevoir un robot qui peut se transformer en voiture (quoi que 🤔), mais bien un robot (ou plusieurs) capable de se déplacer dans un environnement connu ou inconnu.<br/><br/>
 C'est pourquoi, j'ai créé ce Github où vous pourrez y retrouver toutes mes expérimentations en matière de robotique mobile. 
 
 <!-- Social icons section -->
@@ -58,7 +58,7 @@ C'est pourquoi, j'ai créé ce Github où vous pourrez y retrouver toutes mes ex
 
 #
 
-## 📈 Stats
+## 📈 Statistiques Github
 ![Lab Acropolix's GitHub stats](https://github-readme-stats.vercel.app/api?username=LabAcropolix&show_icons=true&theme=algolia)
 
 #
