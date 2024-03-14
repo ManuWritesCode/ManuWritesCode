@@ -4,7 +4,9 @@
 
 # 🤖 Bienvenue au Lab Acropolix
 
-**`Laboratoire d'expérimentations et de réalisations autour de la Robotique Mobile`**
+<p align="center">
+  <code><strong>Laboratoire d'expérimentations et de réalisations autour de la Robotique Mobile</strong></code>
+</p>
 
 
 La découverte de la série animée Transformers dans les années 80 a été un véritable déclic. Des robots se transformant en véhicules de toute sorte, j'ai trouvé cela tout bonnement génial. <br/>
@@ -12,6 +14,7 @@ Même si depuis la fin de mes études, je me suis un peu éloigné du domaine, i
 Il est temps aujourd'hui de concrétiser toutes ces années d'idées en robotique que je n'ai jamais pu réaliser jusqu'à présent. Je vous rassure, on ne va pas concevoir un robot qui peut se transformer en voiture (quoi que 🤔), mais bien un robot (ou plusieurs) capable de se déplacer dans un environnement connu ou inconnu.<br/><br/>
 C'est pourquoi, j'ai créé ce Github où vous pourrez y retrouver toutes mes expérimentations en matière de robotique mobile. 
 
+<br />
 <!-- Social icons section -->
 <p align="center">
   <!-- Website -->
@@ -58,13 +61,9 @@ C'est pourquoi, j'ai créé ce Github où vous pourrez y retrouver toutes mes ex
   <!-- Github -->
   <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
-
-
 <!-- <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> -->
-
-<br />
 
 #
 
@@ -72,4 +71,5 @@ C'est pourquoi, j'ai créé ce Github où vous pourrez y retrouver toutes mes ex
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LabAcropolix&show_icons=true&theme=algolia" />
 </p>
+
 #
