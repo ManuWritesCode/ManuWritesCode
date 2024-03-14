@@ -15,7 +15,7 @@ C'est pourquoi, j'ai créé ce Github où vous pourrez y retrouver toutes mes ex
 <!-- Social icons section -->
 <p align="center">
   <!-- Website -->
-  <a href="https://lelab.acropolix.fr"><img width="32" height="32" src="https://img.icons8.com/color/48/domain--v1.png" alt="Le Lab Acropolix Website"/></a>
+  <a href="https://lelab.acropolix.fr"><img width="32" height="32" src="https://i.imgur.com/hZ0XFen.png" alt="Le Lab Acropolix Website"/></a>
   &#8287;&#8287;
   <!-- Email -->
   <a href="mailto:lelab@acropolix.fr"><img width="32" height="32" src="https://i.imgur.com/mvqWMuQ.png" alt="Email" /></a>
