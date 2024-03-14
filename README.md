@@ -1,13 +1,15 @@
 <!-- Banner -->
 ![Lab Acropolix Banner](https://pbs.twimg.com/profile_banners/1572554925577469953/1710254770/1500x500)
 
-
-# 🤖 Bienvenue au Lab Acropolix
+<div align="center">
+  <h1>Bienvenue au Lab Acropolix</h1>
+</div>
 
 <p align="center">
   <code><strong>Laboratoire d'expérimentations et de réalisations autour de la Robotique Mobile</strong></code>
 </p>
 
+<br />
 
 La découverte de la série animée Transformers dans les années 80 a été un véritable déclic. Des robots se transformant en véhicules de toute sorte, j'ai trouvé cela tout bonnement génial. <br/>
 Même si depuis la fin de mes études, je me suis un peu éloigné du domaine, il est toujours ancré en moi.<br/><br/>
