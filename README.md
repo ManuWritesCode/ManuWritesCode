@@ -14,12 +14,17 @@ C'est pourquoi, j'ai créé ce Github où vous pourrez y retrouver toutes mes ex
 
 <!-- Social icons section -->
 <p align="center">
-  <!-- <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <!-- Website -->
   <a href="https://lelab.acropolix.fr"><img width="32" height="32" src="https://img.icons8.com/color/48/domain--v1.png" alt="Le Lab Acropolix Website"/></a>
   &#8287;&#8287;
+  <!-- Email -->
+  <a href="mailto:lelab@acropolix.fr"><img width="32" height="32" src="https://i.imgur.com/mvqWMuQ.png" alt="Email" /></a>
+  &#8287;&#8287;
+  <!-- X -->
   <a href="https://twitter.com/LabAcropolix"><img width="32" height="32" src="https://i.imgur.com/0F6L3D2.png" alt="Le Lab Acropolix on X"/></a>
-
+  
+  <!-- <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <!-- <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
