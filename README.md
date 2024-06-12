@@ -81,4 +81,7 @@ Bien entendu, tout sera documenté sur le site dédié au _Lab_. Vous pouvez y a
   <img src="https://github-readme-stats.vercel.app/api?username=LabAcropolix&show_icons=true&theme=algolia" />
 </p>
 
+<!--![Lab Acropolix' GitHub stats](https://github-readme-stats.vercel.app/api?username=LabAcropolix&show_icons=true&theme=algolia)-->
+
+
 #
