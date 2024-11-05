@@ -27,7 +27,7 @@ Bien entendu, tout sera documenté sur le site dédié au _Lab_. Vous pouvez y a
 <!-- Social icons section -->
 <p align="center">
   <!-- Website -->
-  <a href="https://lelab.acropolix.fr"><img width="32" height="32" src="https://i.imgur.com/hZ0XFen.png" alt="Le Lab Acropolix Website"/></a>
+  <a href="https://lab.acropolix.fr"><img width="32" height="32" src="https://i.imgur.com/hZ0XFen.png" alt="Le Lab Acropolix Website"/></a>
   &#8287;&#8287;
   <!-- Email -->
   <a href="mailto:lelab@acropolix.fr"><img width="32" height="32" src="https://i.imgur.com/mvqWMuQ.png" alt="Email" /></a>
