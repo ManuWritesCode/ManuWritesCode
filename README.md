@@ -15,10 +15,7 @@ All codes presented here are written in **_C_** or **_Bash_** (perhaps I will us
 ### Follow me on
 
 <p align="left">
-  <a href="https://github.com/ManuWritesCode?tab=followers">
-     <!-- <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> -->
-     <img alt="Github" width="30px" style="padding-right:10px;" src="img/icons8-github-64.png" />
-  </a>
+  <a href="https://github.com/ManuWritesCode?tab=followers"><img alt="Github" width="30px" style="padding-right:10px;" src="img/icons8-github-64.png" /></a>
   &#8287;&#8287;
 
 </p>
