@@ -6,21 +6,21 @@
 ![ManuWritesCode Banner](https://pbs.twimg.com/profile_banners/1572554925577469953/1710254770/1500x500)
 
 <br />
+<br />
 
 A **_French developer_**, who want to make my life easier with code. When I'm not coding, I enjoy capturing life's moments through photogreaphy. I'm also fascinated by robotics engineering and artificial intelligence, wich iften inspire my projects.
 All codes presented here are written in **_C_** or **_Bash_** (perhaps I will use other languages), and aim to simplify my personal and professional life.
 <br />
-<br />
 
 ### Follow me on
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ManuWritesCode?tab=followers">
      <!-- <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> -->
      <img alt="Github" width="30px" style="padding-right:10px;" src="img/icons8-github-64.png" />
   </a>
+  &#8287;&#8287;
 
-  
 </p>
 
 <!-- Social icons section -->
