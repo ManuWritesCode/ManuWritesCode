@@ -1,20 +1,24 @@
-<!-- Banner -->
-![Lab Acropolix Banner](https://pbs.twimg.com/profile_banners/1572554925577469953/1710254770/1500x500)
-
 <div align="center">
-  <h1>Hi everyone, I'm Emmanuel</h1>
+  <h1>:wave: Hi everyone, I'm Emmanuel :wave:</h1>
 </div>
-
-<p align="center">
-  <code><strong>????</strong></code>
-</p>
+---
+<!-- Banner -->
+![ManuWritesCode Banner](https://pbs.twimg.com/profile_banners/1572554925577469953/1710254770/1500x500)
 
 <br />
 
-**_French developer_**, I want to make my life easier with code. When I'm not coding, I enjoy capturing life's moments through photogreaphy. I'm also fascinated by robotics engineering and artificial intelligence, wich iften inspire my projects.
+A **_French developer_**, who want to make my life easier with code. When I'm not coding, I enjoy capturing life's moments through photogreaphy. I'm also fascinated by robotics engineering and artificial intelligence, wich iften inspire my projects.
 All codes presented here are written in **_C_** or **_Bash_** (perhaps I will use other languages), and aim to simplify my personal and professional life.
 <br />
 <br />
+
+### Follow me on
+
+<p align="center">
+  <a href="https://github.com/ManuWritesCode?tab=followers">
+     <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-woodmark.svg" />
+  </a>
+</p>
 
 <!-- Social icons section -->
 <!-- <p align="center"> -->
@@ -68,7 +72,7 @@ All codes presented here are written in **_C_** or **_Bash_** (perhaps I will us
 
 #
 
-## 📈 Statistiques Github
+## 📈 Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManuWritesCode&show_icons=true&theme=algolia" />
 </p>
