@@ -16,8 +16,11 @@ All codes presented here are written in **_C_** or **_Bash_** (perhaps I will us
 
 <p align="center">
   <a href="https://github.com/ManuWritesCode?tab=followers">
-     <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-woodmark.svg" />
+     <!-- <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> -->
+     <img alt="Github" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/3tC9EQumUAuq/github" />
   </a>
+
+  
 </p>
 
 <!-- Social icons section -->
