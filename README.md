@@ -14,8 +14,8 @@ All codes presented here are written in **_C_** or **_Bash_** (perhaps I will us
 ### Follow me on
 
 <p align="left">
-  <a href="https://github.com/ManuWritesCode?tab=followers"><img alt="Github" width="30px" style="padding-right:10px;" src="img/icons8-github-64.png" /></a>
-  <a href="https://lab.acropolix.fr"><img alt="My french website about robotics" width="30px" style="padding-right:10px;" src="img/icons8-domaine-64.png" /></a>
+  <a href="https://github.com/ManuWritesCode?tab=followers"><img alt="Github" title="Github" width="30px" style="padding-right:10px;" src="img/icons8-github-64.png" /></a>
+  <a href="https://lab.acropolix.fr"><img alt="My french website about robotics" title="My french website about robotics" width="30px" style="padding-right:10px;" src="img/icons8-domaine-64.png" /></a>
   &#8287;&#8287;
 </p>
 
