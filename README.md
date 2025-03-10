@@ -7,9 +7,6 @@
   <img alt="ManuWritesCode Banner" src="img/Header_ManuWritesCode.jpg" />
 </p>
 
-<br />
-<br />
-
 Hi, I'm a **_French developer_**, who wants to make his life easier with code. When I'm not coding, I enjoy capturing life's moments through photogreaphy. I'm also fascinated by robotics engineering and artificial intelligence, wich iften inspire my projects.
 All codes presented here are written in **_C_** or **_Bash_** (perhaps I will use other languages), and aim to simplify my personal and professional life.
 <br />
