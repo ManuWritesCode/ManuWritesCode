@@ -16,28 +16,7 @@ All codes presented here are written in **_C_** or **_Bash_** (perhaps I will us
 <p align="left">
   <a href="https://github.com/ManuWritesCode?tab=followers"><img alt="Github" width="30px" style="padding-right:10px;" src="img/icons8-github-64.png" /></a>
   &#8287;&#8287;
-
 </p>
-
-<!-- Social icons section -->
-<!-- <p align="center"> -->
-  <!-- Website -->
-  <!-- <a href="https://lab.acropolix.fr"><img width="32" height="32" src="https://i.imgur.com/hZ0XFen.png" alt="Le Lab Acropolix Website"/></a> -->
-  <!-- &#8287;&#8287; -->
-  <!-- Email -->
-  <!-- <a href="mailto:lelab@acropolix.fr"><img width="32" height="32" src="https://i.imgur.com/mvqWMuQ.png" alt="Email" /></a> -->
-  <!-- &#8287;&#8287; -->
-  <!-- X -->
-  <!-- <a href="https://twitter.com/LabAcropolix"><img width="32" height="32" src="https://i.imgur.com/0F6L3D2.png" alt="Le Lab Acropolix on X"/></a> -->
-  
-  <!-- <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <!-- <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-<!-- </p> -->
 
 ---
 
