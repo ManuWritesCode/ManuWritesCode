@@ -3,7 +3,7 @@
 </div>
 ---
 <!-- Banner -->
-![ManuWritesCode Banner](https://pbs.twimg.com/profile_banners/1572554925577469953/1710254770/1500x500)
+![ManuWritesCode Banner](./img/Header_ManuWritesCode.jpg)
 
 <br />
 <br />
