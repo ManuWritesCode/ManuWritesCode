@@ -19,7 +19,11 @@ All codes presented here are written in **_C_** or **_Bash_** (perhaps I will us
   &#8287;&#8287;
 </p>
 
----
+### Some fun facts about me
+- I love listening Metal music 🤘🏻🎸. It calms me and allows me to concentrate on my tasks.
+- I love Japan 🇯🇵, its landscpes, culture, food and people. I went there twice. The first time is during automn 2017, and it was my first time traveling in an airplane. My second time in Japan was at spring 2023. And it won't be the last, for sure.
+
+#
 
 <!-- Languages and Tools section -->
 ## 🧰 Languages and Tools
