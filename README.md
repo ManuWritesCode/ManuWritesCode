@@ -21,7 +21,9 @@ All codes presented here are written in **_C_** or **_Bash_** (perhaps I will us
 
 ### Some fun facts about me
 - I love listening Metal music 🤘🏻🎸. It calms me and allows me to concentrate on my tasks.
-- I love Japan 🇯🇵, its landscpes, culture, food and people. I went there twice. The first time is during automn 2017, and it was my first time traveling in an airplane. My second time in Japan was at spring 2023. And it won't be the last, for sure.
+- I love Japan 🇯🇵, its landscpes, culture (not only pop culture), food and people. I went there twice. The first time is during automn 2017, and it was my first time traveling in an airplane. My second time in Japan was at spring 2023. And it won't be the last, for sure.
+- I am a huge fan of Sci-Fi/Fantasy/Horror movies/TV shows 👽. The first movie I viewed was [_The Nerverending Story_](https://en.wikipedia.org/wiki/The_NeverEnding_Story_(film)), when I was 10 years old. And, it is better when the story is about robots (like Terminator, Transformers...).
+- I read a lot too 📚. Particularly books from Stephen King, Maxime Chattam (aka the french Stephen King), Dan Brown or Isaac Asimov.
 
 #
 
