@@ -58,10 +58,11 @@ All codes presented here are written in **_C_** or **_Bash_** (perhaps I will us
 
 #
 
-## 📈 Github Stats
+<!--## 📈 Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManuWritesCode&show_icons=true&theme=algolia" />
 </p>
+-->
 
 <!--![Lab Acropolix' GitHub stats](https://github-readme-stats.vercel.app/api?username=LabAcropolix&show_icons=true&theme=algolia)-->
 
